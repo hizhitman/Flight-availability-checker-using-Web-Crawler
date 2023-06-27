@@ -1,0 +1,14 @@
+DEPARTURE: MAA ARRIVAL: BLR DATE OF DEPARTURE: 29/06/2023
+flight_name,flight_cost,layover,departure_time
+AirAsia,"₹ 3,326per traveller",Non stop,22:10
+IndiGo,"₹ 3,327per traveller",Non stop,23:25
+IndiGo,"₹ 3,327per traveller",Non stop,16:45
+IndiGo,"₹ 3,747per traveller",Non stop,17:40
+IndiGo,"₹ 3,747per traveller",Non stop,22:05
+Air India,"₹ 3,809per traveller",Non stop,23:05
+IndiGo,"₹ 4,167per traveller",Non stop,14:10
+IndiGo,"₹ 5,532per traveller",Non stop,15:10
+IndiGo,"₹ 6,582per traveller",Non stop,18:10
+Vistara,"₹ 8,454per traveller",1 stop via Mumbai,18:55
+IndiGo,"₹ 9,942per traveller",Non stop,11:10
+Air India,"₹ 12,545per traveller",1 stop via Mumbai,12:20
